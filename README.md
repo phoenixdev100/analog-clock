@@ -1,4 +1,4 @@
-## demo# Welcome 🖐 to the Admin Portal
+# Welcome 🖐 to the Admin Portal
 
 This project is a simple analog clock created using HTML, CSS, and JavaScript. It displays the current time in a traditional analog format, with hour, minute, and second hands. The clock is designed using CSS for styling and JavaScript for the functionality of updating the time.
 
